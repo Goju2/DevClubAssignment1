@@ -1,0 +1,1 @@
+DevClub is essentially a group of students who work together to use their coding skills in various aspects of software development. The club also organises workshops and assignment series such as this one, to allow students to learn more in a particular field of software development.
